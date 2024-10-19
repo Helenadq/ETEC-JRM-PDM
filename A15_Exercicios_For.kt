@@ -81,3 +81,14 @@ fun exercicioCinco(){
         println("#".repeat(i));
     }
 }
+
+/*
+fun exercicioCincoModoProf(n: Int){
+   for(i in 1..n){
+      for(i in 1..i){
+       print("#")
+       }
+          println()
+    }
+}
+*/
